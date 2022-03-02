@@ -69,5 +69,4 @@ if __name__ == "__main__":
         results.append(result)
         print(f"Student {index+1}: {message}")
 
-    if not all(results):
-        exit(-1)
+
